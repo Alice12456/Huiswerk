@@ -1,0 +1,4 @@
+<?php
+
+$mijnNummer = -7;
+
